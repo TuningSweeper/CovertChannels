@@ -17,7 +17,8 @@ The receiver measures the memory interface speed when the seconds are half. It h
 ## Demo Video
 
 This demo shows communication between two virtual machines using memory bus speed as the medium.
-<video src='memspeeder-vm-demo.mp4' width=360/>
+
+memspeeder-vm-demo.mp4
 
 
 ## Usage
