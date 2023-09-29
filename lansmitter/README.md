@@ -12,7 +12,7 @@ Lansmitter is inspired by the LANTENNA research project, which explores similar 
 
 ## Demo Video
 
-[![Simple demo]](lansmitter-demo1.mp4). This is captured with RTL-SDR.
+[![Simple demo]](lansmitter-demo1.mp4). This is captured with RTL-SDR. (I don't seem to know how to embed a video here...)
 
 ## Usage
 
