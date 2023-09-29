@@ -12,7 +12,7 @@ Lansmitter is inspired by the LANTENNA research project, which explores similar 
 
 ## Demo Video
 
-![Simple demo](lansmitter-demo1.mp4). This is captured with RTL-SDR.
+[![Simple demo]](lansmitter-demo1.mp4). This is captured with RTL-SDR.
 
 ## Usage
 
@@ -22,3 +22,4 @@ Run Lansmitter in administrator PowerShell:
 ```
 Also, there are dit.ps1 and dash.ps1 which send dit and dash.
 
+These artefacs may show up on frequencies such as 10 MHz, 125 MHz, 250 Mhz, 1 GHz or something like that. Maybe. Or maybe not
